@@ -1,0 +1,9 @@
+flask
+beautifulsoup4 
+requests 
+transformers
+torch
+torchvision 
+torchaudio
+apscheduler
+pytz
